@@ -5,7 +5,7 @@ all:
   children:
     webserver:
       hosts:
-        foo.example.com:
+        srinivas.computerscience.com:
           ansible_connection: local
     dbserver:
       hosts:
